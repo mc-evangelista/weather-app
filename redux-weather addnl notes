@@ -1,8 +1,0 @@
-new Redux/other items
-action - fetchWeather
-constants
-middleware - redux promise with axios to make ajax request
-payload: request //stops and waits for promise to resolve
-reducers to avoid mutating state - using rest parameter to prepend
-SparkLines lib for generating chart
-GoogleMap
